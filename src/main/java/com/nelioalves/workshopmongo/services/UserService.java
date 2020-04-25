@@ -1,4 +1,4 @@
-package com.nelioalves.workshopmongo.service;
+package com.nelioalves.workshopmongo.services;
 
 import java.util.List;
 import java.util.Optional;
